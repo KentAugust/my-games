@@ -8,13 +8,17 @@ This repository list all games made by myself, link for download and source code
 
 ## List by date
 - 12/10/2022 - Py-pong - [source](sources/Py-pong.zip)
+- 07/12/2022 - Asteroid-shooter - [source](sources/Asteroid-shooter.zip)
+- 21/12/2022 - Western-shooter - [source](sources/Western-shooter.zip)
 - 15/04/2023 - Pipipi-Pizza - [Itch.io](https://kentaugust.itch.io/pipipi-pizza) - [source](sources/Pipipi-Pizza.zip)
 - 07/08/2023 - Atlanpolis - [Itch.io](https://kentaugust.itch.io/atlanpolis) - [source](sources/Atlanpolis.zip)
 
 ## List by name
+- Asteroid-shooter - 07/12/2022 - [source](sources/Asteroid-shooter.zip)
 - Atlanpolis - 07/08/2023 - [Itch.io](https://kentaugust.itch.io/atlanpolis) - [source](sources/Atlanpolis.zip)
 - Pipipi-Pizza - 15/04/2023 - [Itch.io](https://kentaugust.itch.io/pipipi-pizza) - [source](sources/Pipipi-Pizza.zip)
 - Py-pong - 12/10/2022 - [source](sources/Py-pong.zip)
+- Western-shooter - 21/12/2022 - [source](sources/Western-shooter.zip)
 
 ## Showcase video link
 Newest to oldest
